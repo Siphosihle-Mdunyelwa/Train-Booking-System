@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Booking</string>
+
+
+    <string-array name="Departure">
+        <item>Cuyler Manor</item>
+        <item>De Mist</item>
+        <item>Despatch</item>
+        <item>New Brighton</item>
+        <item>North End</item>
+        <item>Perserverence</item>
+        <item>Port Elizabeth</item>
+        <item>Redhouse</item>
+        <item>Swartkops</item>
+        <item>Sydenham</item>
+        <item>Uitenhage</item>
+    </string-array>
+
+    <string-array name="Destination">
+        <item>Cuyler Manor</item>
+        <item>De Mist</item>
+        <item>Despatch</item>
+        <item>New Brighton</item>
+        <item>North End</item>
+        <item>Perserverence</item>
+        <item>Port Elizabeth</item>
+        <item>Redhouse</item>
+        <item>Swartkops</item>
+        <item>Sydenham</item>
+        <item>Uitenhage</item>
+    </string-array>
+
+
+</resources>
